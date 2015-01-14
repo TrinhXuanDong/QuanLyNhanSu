@@ -1,2 +1,1 @@
-# QuanLyNhanSu
-Bài tập lớn môn học hệ quản trị cơ sở dữ liệu SQL
+﻿Cong Hoa Xa Hoi CHu Nghia Viet Nam
